@@ -1,0 +1,2 @@
+# Magazin App
+##Doldurmaq
